@@ -1,6 +1,6 @@
 # Análisis de un Pórtico Plano de Concreto con Cimentación en Pilas
 ### Esquema basico del perfil Desarrollador BIM
-![Problema]([https://github.com/Gaag13/CURSO_REVIT_API_BASICO/blob/main/IMAGENES/PEFIL%20DEL%20DESARROLLADOR%20BIM.png?raw=true](https://github.com/Gaag13/An-lisis-Estructural/blob/main/problem.png))
+![Problema]([(https://github.com/Gaag13/An-lisis-Estructural/blob/main/problem.png)])
 Este proyecto modela y analiza un pórtico plano de concreto soportado por pilas en un suelo de dos estratos (blando y rígido). Se emplea un modelo estático para estudiar el comportamiento del conjunto estructura + cimentación + suelo, considerando los siguientes parámetros:
 
 ## Características de la Estructura:
